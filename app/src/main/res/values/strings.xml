@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name" translatable="false">gussesTheanswer</string>
+    <string name="name_view">لعبة خمن </string>
+    <string name="true_text"> صحيح</string>
+    <string name="false_text"> خطا </string>
+    <string name="question_text"> السوال</string>
+    <string name="share_text"> شارك مع الاصدقاء </string>
+    <string name="share_question_text"> نشر السوال  </string>
+    <string name="share_question_view"> ادخل عنوان المشاركة </string>
+    <string name="question_answer_view"> الاجابه الصحيحه هي</string>
+    <string name="back_text"> رجوع </string>
+    <string name="change_language"> تغيير اللغة </string>
+
+    <string-array name="questions">
+        <item>العملة الرسمية لدولة الكويت هي الريال الكويتي؟ </item>
+        <item> توبقال هي أعلى قمة جبلية في العالم العربي؟</item>
+        <item>الجزائر هي أكبر دولة عربية من حيث المساحة؟ </item>
+        <item> الدار البيضاء هي عاصمة المغرب؟</item>
+        <item> كابول هى عاصمة افغانستان؟ </item>
+        <item>اضخم الحيوانات اللافقرية هو القنديل؟ </item>
+        <item>  الدولة العربية التي يمر بها خط الاستواء هى السودان؟ </item>
+        <item>القلب هو أكبر عضو في جسم الإنسان؟ </item>
+        <item> أول مسجد في الإسلام هو المسجد النبوي؟</item>
+        <item> الخال الوحيد لأولاد عمتك هو والدك؟ </item>
+        <item>اولى دول العالم انتاجا للموز هى الاكوادور؟ </item>
+        <item> الأرجنتين عاصمتها باكو؟ </item>
+        <item> عملة فيتنام هى دونج؟</item>
+    </string-array>
+    <string-array name="answers_details">
+        <item>العملة الرسمية لدولة الكويت هي الدينار الكويتي </item>
+        <item> توبقال هي أعلى قمة جبلية في العالم العربي و تقع في المغرب</item>
+        <item>الجزائر هي أكبر دولة عربية و إفريقية من حيث المساحة </item>
+        <item> الرباط هي عاصمة المغرب</item>
+        <item>كابول هى عاصمة افغانستان </item>
+        <item> اضخم الحيوانات اللافقرية هو الحبار</item>
+        <item>الدولة العربية التي يمر بها خط الاستواء هى الصومال </item>
+        <item> الكبد هو أكبر عضو في جسم الإنسان</item>
+        <item>أول مسجد في الإسلام هو مسجد قباء </item>
+        <item>الخال الوحيد لأولاد عمتك هو والدك </item>
+        <item>اولى دول العالم انتاجا للموز هى الاكوادو </item>
+        <item> لأرجنتين عاصمتها بونس إيرس</item>
+        <item> عملة فيتنام هى دونج</item>
+    </string-array>
+
+</resources>
